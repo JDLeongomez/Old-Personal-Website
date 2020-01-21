@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: Profesor Asociado
 
 # Organizations/Affiliations
 organizations:
@@ -18,28 +18,28 @@ organizations:
   url: "https://www.uelbosque.edu.co/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as statistics and R programming.
+bio: Mis intereses de investigación incluyen los procesos de selección de pareja y la comunicación vocal en humanos, con una aspiración hacia la comprensión de la musicalidad. También estoy interesado en bioacústica y psicoacústica, así como en estadística y programación en R.
 
 interests:
-- Mate choice
-- Vocal communication
-- Musicality
-- Bioacoustics
-- Psychoacoustics
-- Hormones
-- Statistics
-- R programming
+- Selección de pareja
+- Comunicación vocal
+- Musicalidad
+- Bioacústica
+- Psicoacústica
+- Hormonas
+- Estadística
+- Programación en R
 
 education:
   courses:
   - course: PhD, Psychology, School of Natural Sciences
-    institution: University of Stirling (Stirling, UK)
+    institution: University of Stirling (Stirling, Reino Unido)
     year: 2014
   - course: MSc in Evolutionary Psychology
-    institution: University of Liverpool (Liverpool, UK)
+    institution: University of Liverpool (Liverpool, Reino Unido)
     year: 2009
-  - course: BA in Music Pedagogy
-    institution: Universidad Pedagógica Nacional (Bogota, Colombia)
+  - course: Licenciatura en Pedagogía Musical
+    institution: Universidad Pedagógica Nacional (Bogotá, Colombia)
     year: 2006
 
 # Social/Academic Networking
@@ -82,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-I am an Associate Professor and Researcher at the [Human Behaviour Lab (LACH)](https://www.researchgate.net/lab/Laboratorio-de-Analisis-del-Comportamiento-Humano-LACH-Oscar-R-Sanchez), [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), at [El Bosque University](https://www.uelbosque.edu.co/) in Bogota, Colombia. My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as hormonal effects on human behaviour. I am getting more and more passionate about quantitative methods and R programming, to promote reproducibility and open science.
+Soy Profesor Asociado e investigador del [Laboratorio de Análisis del Comportamiento Humano (LACH)](https://www.researchgate.net/lab/Laboratorio-de-Analisis-del-Comportamiento-Humano-LACH-Oscar-R-Sanchez), de la [Facultad de Psicología](https://www.uelbosque.edu.co/psicologia) de la [Universidad El Bosque](https://www.uelbosque.edu.co/) en Bogotá, Colombia. Mis intereses de investigación incluyen los procesos de selección de pareja y la comunicación vocal en humanos, con una aspiración hacia la comprensión de la musicalidad. También estoy interesado en bioacústica y psicoacústica, así como los efectos hormonales en el comportamiento humano. Cada día me apasiono más por los métodos cuantitativos y la programación en [R](https://www.r-project.org/about.html) (usando [RStudio](https://rstudio.com/products/rstudio/)), aplicados a la ciencia abierta y la reproducibilidad.

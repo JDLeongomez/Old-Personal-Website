@@ -89,7 +89,7 @@
 - id: pub_journal
   translation: Artículo de revista
 - id: pub_preprint
-  translation: Pre-print
+  translation: Preprint
 - id: pub_report
   translation: Informe
 - id: pub_book
