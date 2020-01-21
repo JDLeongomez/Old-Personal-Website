@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Research Grants, Awards and Prizes"
+title = "Becas, Premios y Distinciones"
 subtitle = ""
 
 # Date format
@@ -21,27 +21,27 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Colciencias"
   organization_url = "https://www.colciencias.gov.co/"
-  title = "Postdoctoral Research Stays - Colciencias beneficiaries 2017"
+  title = "Estancias Postdoctorales - Beneficiarios Colciencias 2017"
   url = "http://www.colciencias.gov.co/convocatorias/investigacion/convocatoria-programa-estancias-postdoctorales-beneficiarios-colciencias"
   certificate_url = "https://drive.google.com/file/d/195CTue30YsaKfNzWCJKeawFrUbwcCLwd/view?usp=sharing"
   date_start = "2018-01-15"
   date_end = "2019-01-15"
-  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales [Perceptible signs of physical and mental health in faces, voices and body odors, and their relationship with hormonal levels]."
+  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales."
 
 [[item]]
-  organization = "El Bosque University"
+  organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
-  title = "IX Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2017"
-  url = "http://www.unbosque.edu.co/centro-informacion/convocatoria/convocatoria-interna-de-investigaciones-201"
+  title = "IX Convocatoria Interna para la Financiación de Proyectos de Investigación e Innovación Tecnológica Universidad El Bosque, 2017"
+  url = "http://www.unbosque.edu.co/centro-informacion/convocatoria/convocatoria-interna-de-investigaciones-2017"
   certificate_url = "https://drive.google.com/file/d/1p93_aH47ij-KHF3i66uJZappnawVZvsq/view?usp=sharing"
   date_start = "2018-01-01"
   date_end = "2021-12-21"
-  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales [Perceptible signs of physical and mental health in faces, voices and body odors, and their relationship with hormonal levels]."
+  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales."
   
 [[item]]
-  organization = "El Bosque University"
+  organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
-  title = "VIII Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2016"
+  title = "VIII Convocatoria Interna para la Financiación de Proyectos de Investigación e Innovación Tecnológica Universidad El Bosque, 2016"
   url = ""
   certificate_url = "https://drive.google.com/file/d/0Bz0lwdPQdJu9TmhJYXBsaFNfOUk/view?usp=sharing"
   date_start = "2017-01-01"
@@ -49,9 +49,9 @@ date_format = "Jan 2006"
   description = "Efecto de señales estáticas evolutivamente relevantes (sexo, dominancia y atractivo) en el procesamiento cortical de rostros humanos [Effect of evolutionary relevant static signals (sex, dominance, and attractiveness) on cortical face processing humans]."
 
 [[item]]
-  organization = "El Bosque University"
+  organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
-  title = "VII Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2015"
+  title = "VII Convocatoria Interna para la Financiación de Proyectos de Investigación e Innovación Tecnológica Universidad El Bosque, 2015"
   url = ""
   certificate_url = "https://drive.google.com/file/d/0Bz0lwdPQdJu9OFRvd25LTUFqbG8/view?usp=sharing"
   date_start = "2016-01-01"
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2014-09-01"
-  date_end = ""
+  date_end = "2014-09-01"
   description = ""
 
 [[item]]

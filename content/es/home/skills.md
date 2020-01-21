@@ -18,18 +18,36 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Estadística"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "creative-commons-sampling"
+  icon_pack = "fab"
+  name = "Análisis Acústico"
+  description = ""
+
+[[feature]]
+  icon = "flushed"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Análisis de Rostros"
+  description = ""  
+  
+[[feature]]
+  icon = "user-graduate"
+  icon_pack = "fas"
+  name = "Docencia"
+  description = "" 
+
+[[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "Análisis Hormonal"
+  description = ""
 
 +++
