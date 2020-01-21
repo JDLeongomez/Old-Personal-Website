@@ -27,9 +27,9 @@
 - id: btn_video
   translation: Vídeo
 - id: btn_code
-  translation: Código fuente
+  translation: Código
 - id: btn_dataset
-  translation: Datos
+  translation: Base de datos
 - id: btn_project
   translation: Proyecto
 - id: btn_poster
@@ -89,7 +89,7 @@
 - id: pub_journal
   translation: Artículo de revista
 - id: pub_preprint
-  translation: Prepublicación
+  translation: Pre-print
 - id: pub_report
   translation: Informe
 - id: pub_book

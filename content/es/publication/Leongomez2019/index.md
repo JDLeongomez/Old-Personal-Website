@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Supplementary Material", url = "https://cvqhdgtrf3xdxzpyz8aqzg-on.drv.tw/Research/LACH/Proyecto%20Inmunocompetencia/Art%C3%ADculo%201%20-%20Altura%20Cintura/MS/RSOS/Supplementary_Material.html"}]
+links = [{name = "Material Suplementario (código y análisis)", url = "https://cvqhdgtrf3xdxzpyz8aqzg-on.drv.tw/Research/LACH/Proyecto%20Inmunocompetencia/Art%C3%ADculo%201%20-%20Altura%20Cintura/MS/RSOS/Supplementary_Material.html"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

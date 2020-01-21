@@ -65,7 +65,7 @@ url_source = "https://www.nature.com/articles/s41598-019-43267-7"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Pre-registration", url = "https://osf.io/7j83e/"}]
+links = [{name = "Pre-registro", url = "https://osf.io/7j83e/"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

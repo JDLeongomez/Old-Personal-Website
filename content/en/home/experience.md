@@ -62,7 +62,7 @@ date_format = "Jan 2006"
     * Quantitative Methods I (Psychology MSc – 2017).
     * Quantitative Methods II (Psychology MSc – 2017-2018).
     * Research Degree Project (2017).
-    * Resources and Documentation Style in Psychology (2015).
+    * Sources and Documentation Styles in Psychology (2015).
   """
 
 [[experience]]
