@@ -49,13 +49,13 @@ date_format = "Jan 2006"
   
   * Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH).
   * Asesor metodológico y estadístico para proyectos de investigación de docentes y estudiantes de posgrado.
-  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.colciencias.gov.co/gruplac/jsp/Medicion/graficas/verPerfiles.jsp?id_convocatoria=19&nroIdGrupo=00000000001446).
+  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://sba.colciencias.gov.co/Buscador_Grupos/busqueda?q=PROCESOS%20COGNOSCITIVOS%20Y%20EDUCACION&pagenum=1&start=0&type=load&inmeta=COD_ID_GRUPO!COL0018152).
   * Organizador de la serie de conferencias semanales Nerd Café de la Facultad de Psicología (2016-2017).
   * Supervisión de una variedad de proyectos de investigación de pregrado asociados con psicología y biología.
   * Estancia postdoctoral (2018-2019).
   * Supervisión de estudiantes de doctorado:
   
-    * [Milena Vásquez-Amézquita](https://bit.ly/2DJKvXC) (PhD en Neurociencias, Universidad de Valencia, España – 2015-2018).
+    * [Milena Vásquez-Amézquita](https://www.researchgate.net/profile/Milena_Vasquez-Amezquita) (PhD en Neurociencias, Universidad de Valencia, España – 2015-2018).
     * Francisco Javier Flores (Professional Doctorate in Counselling Psychology, University of East London, Reino Unido – 2016-2018).
     
   * Docencia:

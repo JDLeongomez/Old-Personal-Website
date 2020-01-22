@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   * Postdoctoral stay (2018-2019)
   * Co-supervision of Doctoral Students
   
-    * [Milena Vásquez-Amézquita](https://bit.ly/2vDitsh) (PhD in Neuroscience, University of Valencia, Spain – 2015-2018).
+    * [Milena Vásquez-Amézquita](https://www.researchgate.net/profile/Milena_Vasquez-Amezquita) (PhD in Neuroscience, University of Valencia, Spain – 2015-2018).
     
   * Teaching:
   
