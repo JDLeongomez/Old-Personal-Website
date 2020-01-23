@@ -1,6 +1,6 @@
 +++
 title = "Self-reported Health is Related to Body Height and Waist Circumference in Rural Indigenous and Urbanised Latin-American Populations"
-date = 2019-03-13T00:00:00
+date = 2020-01-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Juan David Leongómez**", "Oscar R. Sánchez", "Milena Vásquez-Amézquita", "Eugenio Valderrama", "Andrés Castellanos-Chacón", "Lina Morales-Sánchez", "Javier Nieto", "Isaac González-Santoyo"]
