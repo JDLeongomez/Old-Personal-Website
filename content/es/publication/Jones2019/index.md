@@ -64,7 +64,8 @@ url_poster = ""
 url_source = ""
 
 # Custom links (optional).
-# For multiple links, use the form `[{...}, {...}, {...}]`.
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+links = [{name = "Registered Report Stage 1", url = "https://www.scienceopen.com/document?vid=f6947e6f-8fe0-45a2-8794-94852e06f859"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true

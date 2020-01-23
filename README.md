@@ -1,3 +1,9 @@
+# Description
+
+This repository contains the code and files for my personal website ([jdleongomez.info](https://jdleongomez.info/)), created using the [Academic](https://themes.gohugo.io/academic/) website builder for Hugo.
+
+This website is nothing new, but it is a working multilingual example ([English](https://jdleongomez.info/) and [Spanish](https://jdleongomez.info/es/)). Last deploy status: [![Netlify Status](https://api.netlify.com/api/v1/badges/2cc2692d-c569-4d77-b283-a8526e655ea4/deploy-status)](https://app.netlify.com/sites/jdleongomez/deploys). 
+
 # [Academic Kickstart](https://sourcethemes.com/academic/)
 
 **Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
