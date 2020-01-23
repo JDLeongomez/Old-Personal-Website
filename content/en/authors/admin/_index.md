@@ -65,6 +65,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1333339/juan-david-leongomez/
+# - icon: impactstory
+#   icon_pack: ai
+#   link: https://profiles.impactstory.org/u/0000-0002-0092-6298
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
