@@ -53,8 +53,8 @@ projects = []
 slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/biorxiv/early/2019/05/18/562942.full.pdf"
-url_preprint = "https://doi.org/10.1101/562942"
+url_pdf = ""
+url_preprint = "https://www.biorxiv.org/content/10.1101/562942v5.full"
 url_code = "https://osf.io/9wkmt/"
 url_dataset = "https://osf.io/kgr5x/"
 url_project = "https://osf.io/5rzfs/"
