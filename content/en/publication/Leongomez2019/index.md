@@ -60,12 +60,13 @@ url_dataset = "https://osf.io/kgr5x/"
 url_project = "https://osf.io/5rzfs/"
 url_slides = ""
 url_video = ""
-url_poster = "PosterA0.pdf"
+url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Supplementary Material", url = "Supplementary_Material.pdf"}]
+links = [{name = "Supplementary Material", url = "Supplementary_Material.pdf"},
+{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
