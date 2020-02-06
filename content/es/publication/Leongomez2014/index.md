@@ -61,7 +61,7 @@ url_project = ""
 url_slides = "https://www.researchgate.net/publication/303483511_Vocal_modulation_during_courtship_increases_proceptivity_even_in_naive_listeners_PowerPoint_presentation"
 url_video = ""
 url_poster = ""
-url_source = "http://linkinghub.elsevier.com/retrieve/pii/S1090513814000786"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

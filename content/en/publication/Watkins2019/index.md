@@ -61,7 +61,7 @@ url_project = "https://osf.io/pbqwm/"
 url_slides = ""
 url_video = ""
 url_poster = "https://osf.io/x489w/"
-url_source = "https://www.nature.com/articles/s41598-019-43267-7"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

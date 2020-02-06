@@ -10,28 +10,28 @@
 
 [[main]]
   name = "Publicaciones"
-  url = "https://jdleongomez.info/publication/"
-  weight = 20
+  url = "https://jdleongomez.info/es/publication/"
+  weight = 60
 
 [[main]]
   name = "Destacado"
   url = "#featured"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "Habilidades"
   url = "#skills"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Experiencia"
   url = "#experience"
-  weight = 50
+  weight = 30
 
 [[main]]
   name = "Logros"
   url = "#accomplishments"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "Contacto"
