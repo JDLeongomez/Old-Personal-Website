@@ -80,3 +80,5 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
 +++
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1371/journal.pone.0179407" data-hide-no-mentions="true" class="altmetric-embed"></div>
