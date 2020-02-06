@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/0Bz0lwdPQdJu9OFRvd25LTUFqbG8/view?usp=sharing"
   date_start = "2016-01-01"
   date_end = "2019-12-21"
-  description = "Efectos de los niveles hormonales, masculinidad y feminidad, en la discriminaci6n tonal en hombres y mujeres"
+  description = "Efectos de los niveles hormonales, masculinidad y feminidad, en la discriminación tonal en hombres y mujeres"
 
 [[item]]
   organization = "Experimental Psychology Society"
