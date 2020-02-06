@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales [Perceptible signs of physical and mental health in faces, voices and body odors, and their relationship with hormonal levels]."
 
 [[item]]
-  organization = "El Bosque University"
+  organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
   title = "IX Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2017"
   url = "http://www.unbosque.edu.co/centro-informacion/convocatoria/convocatoria-interna-de-investigaciones-201"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales [Perceptible signs of physical and mental health in faces, voices and body odors, and their relationship with hormonal levels]."
   
 [[item]]
-  organization = "El Bosque University"
+  organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
   title = "VIII Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2016"
   url = ""
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   description = "Efecto de señales estáticas evolutivamente relevantes (sexo, dominancia y atractivo) en el procesamiento cortical de rostros humanos [Effect of evolutionary relevant static signals (sex, dominance, and attractiveness) on cortical face processing humans]."
 
 [[item]]
-  organization = "El Bosque University"
+  organization = "Universidad El Bosque"
   organization_url = "https://uelbosque.edu.co"
   title = "VII Internal Call for Financing Research and Technological Innovation Projects El Bosque University, 2015"
   url = ""
