@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsabilidades incluyen:
   
   * Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH).
-  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.colciencias.gov.co/gruplac/jsp/Medicion/graficas/verPerfiles.jsp?id_convocatoria=19&nroIdGrupo=00000000001446).
+  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://sba.colciencias.gov.co/Buscador_Grupos/busqueda?q=PROCESOS%20COGNOSCITIVOS%20Y%20EDUCACION&pagenum=1&start=0&type=load&inmeta=COD_ID_GRUPO!COL0018152).
   * Supervisión de una variedad de proyectos de investigación de pregrado asociados con psicología y biología.
   * Miembro del Comité de Investigación
   * Miembro del Comité Asesor de Asuntos Éticos
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   * Supervisión de estudiantes de doctorado:
   
     * [Milena Vásquez-Amézquita](https://www.researchgate.net/profile/Milena_Vasquez-Amezquita) (PhD en Neurociencias, Universidad de Valencia, España – 2015-2018).
-    * Francisco Javier Flores (Professional Doctorate in Counselling Psychology, University of East London, Reino Unido – 2016-2018).
+    * [Francisco Javier Flores](https://www.psychologytoday.com/gb/counselling/francisco-javier-flores-tonbridge-eng/493281) (Professional Doctorate in Counselling Psychology, University of East London, Reino Unido – 2016-2018).
     
   * Docencia:
   
