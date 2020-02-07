@@ -11,7 +11,7 @@
 [es]
   languageCode = "es"
   contentDir = "content/es"
-  title = "Juan David Leongómez"
+  title = "JD Leongómez"
   [es.params]
     description = "Sitio web personal"
   [[es.menu.main]]
