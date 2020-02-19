@@ -27,7 +27,7 @@ abstract = "Over the last ten years, Oosterhof and Todorov’s valence-dominance
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.31234/osf.io/n26dy"
+doi = "10.31234/osf.io/n26dy"
 
 # Is this a featured publication? (true/false)
 featured = false

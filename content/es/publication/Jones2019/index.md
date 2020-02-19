@@ -27,7 +27,7 @@ abstract = "Over the last ten years, Oosterhof and Todorov’s valence-dominance
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.31234/osf.io/n26dy"
+doi = "10.31234/osf.io/n26dy"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Reporte Registrado Stage 1 - PDF", url = "https://www.scienceopen.com/document?vid=f6947e6f-8fe0-45a2-8794-94852e06f859"}]
+links = [{name = "Reporte Registrado Stage 1 - PDF", url = "https://osf.io/nv6f9/download/?version=4&displayName=PSA_face_rating_stage_1_RR-2018-12-01T13%3A56%3A22.869Z.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
