@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experiencia"
-subtitle = "Experiencia postdoctoral en educación superior (para una lista completa, por favor mira mi [CV](https://jdleongomez.info/es/files/Juan%20David%20Leongomez%20-%20CV%20march%202019_ES.pdf))"
+subtitle = "Experiencia postdoctoral en educación superior (para una lista completa, por favor mira mi [CV](/es/files/JDL_CV_es.pdf))"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
