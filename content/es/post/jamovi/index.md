@@ -9,7 +9,7 @@ En esta serie en dos partes, hago una introducción general a [jamovi](https://w
 
 ## Parte 1
 
-Presentación y descripción general de [jamovi] (https://www.jamovi.org/), instalación, e interfase.
+Presentación y descripción general de [jamovi](https://www.jamovi.org/), instalación, e interfase.
 
 {{< youtube ApgTo1YzIr8 >}}
 
