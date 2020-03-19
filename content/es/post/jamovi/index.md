@@ -15,4 +15,16 @@ Presentación y descripción general de [jamovi](https://www.jamovi.org/), insta
 
 ## Parte 2
 
-Análisis comunes.
+Análisis comunes:
+
+* Cargar datos
+* Análisis descriptivos y cómo guardar resultados
+* Pruebas *t*
+* ANOVA de un factor
+* ANOVA de medidas repetidas y mixta
+* Correlación
+* Regresión
+* Módulos y análisis adicionales
+* Conclusiones
+
+{{< youtube -xiGwU3qSzU >}}
