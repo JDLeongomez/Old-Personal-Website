@@ -9,22 +9,24 @@ En esta serie en dos partes, hago una introducción general a [jamovi](https://w
 
 ## Parte 1
 
-Presentación y descripción general de [jamovi](https://www.jamovi.org/), instalación, e interfase.
+**Presentación y descripción general de [jamovi](https://www.jamovi.org/), instalación, e interfase.**
 
 {{< youtube ApgTo1YzIr8 >}}
 
 ## Parte 2
 
-Análisis comunes:
+**Análisis comunes.**
 
-* Cargar datos
-* Análisis descriptivos y cómo guardar resultados
-* Pruebas *t*
-* ANOVA de un factor
-* ANOVA de medidas repetidas y mixta
-* Correlación
-* Regresión
-* Módulos y análisis adicionales
-* Conclusiones
+Secciones:
+
+1. **Cargar datos** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=51)
+2. **Análisis descriptivos y cómo guardar resultados** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=208)
+3. **Pruebas *t*** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=903)
+4. **ANOVA de un factor** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=1255)
+5. **ANOVA de medidas repetidas y mixta** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=1486)
+6. **Correlación** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=2113)
+7. **Regresión** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=2395)
+8. **Módulos y análisis adicionales** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=2856)
+9. **Conclusiones** [[ir a sección]](https://youtu.be/-xiGwU3qSzU?t=3028)
 
 {{< youtube -xiGwU3qSzU >}}

@@ -9,22 +9,24 @@ In this two-part series **in Spanish**, I make a general introduction to [jamovi
 
 ## Part 1
 
-Presentation and general description of [jamovi](https://www.jamovi.org/), installation, and interface.
+**Presentation and general description of [jamovi](https://www.jamovi.org/), installation, and interface.**
 
 {{< youtube ApgTo1YzIr8 >}}
 
 ## Part 2
 
-Common analyses:
+**Common analyses.**
 
-* Load data
-* Descriptive analysis and how to save results
-* *t*-tests
-* One-way ANOVA
-* Repeated- and mixed-measures ANOVA
-* Correlation
-* Regression
-* Additional modules and analysis
-* Conclusions
+Sections:
+
+1. **Load data** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=51)
+2. **Descriptive analysis and how to save results** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=208)
+3. ***t*-tests** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=903)
+4. **One-way ANOVA** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=1255)
+5. **Repeated- and mixed-measures ANOVA** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=1486)
+6. **Correlation** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=2113)
+7. **Regression** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=2395)
+8. **Additional modules and analysis** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=2856)
+9. **Conclusions** [[jump to section]](https://youtu.be/-xiGwU3qSzU?t=3028)
 
 {{< youtube -xiGwU3qSzU >}}
