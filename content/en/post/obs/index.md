@@ -2,7 +2,7 @@
 title: Introduction to OBS Studio
 date: 2020-04-03T00:00:00
 author: Juan David Leongómez
-summary: In this basic introduction to **OBS Studio** in Spanish, I explain how to capture audio and video from several sources, to make videos.
+summary: In this basic introduction to **OBS Studio** in Spanish, I explain how to capture audio and video from several sources, to record lessons and tutorials.
 ---
 
 In this basic introduction to [OBS Studio](https://obsproject.com/) **in Spanish**, I explain how to capture audio and video from several sources, to make videos. This basic tutorial is especially focused on recordings for teaching, like lessons and tutorials.
