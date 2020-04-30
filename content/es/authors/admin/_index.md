@@ -93,6 +93,6 @@ Soy Profesor Asociado e investigador del [Laboratorio de Análisis del Comportam
 
 En este sitio podrás encontrar toda la información de mis [publicaciones](https://jdleongomez.info/es/publication/), así como acceder a mis perfiles académicos haciendo clic en los íconos bajo mi fotografía (incluyendo [Publons](https://publons.com/researcher/1333339/juan-david-leongomez/), que tiene el [registro verificado](https://publons.com/researcher/1333339/juan-david-leongomez/peer-review/) de mi trabajo como par académico y roles editoriales en revistas internacionales). Puedes tambien acceder a mi [CvLAC](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001348945).
 
-## [Investigación Abierta](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) (canal de YouTube)
+## [Investigación Abierta](#posts) (canal de YouTube)
 
-[Investigación Abierta](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) es un canal de YouTube channel donde incluyo videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. Puedes encontrar más información [acá](#posts).
+Investigación Abierta es un [canal de YouTube](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) donde incluyo videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. Puedes encontrar más información [acá](#posts).
