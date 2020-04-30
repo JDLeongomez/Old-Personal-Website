@@ -23,6 +23,7 @@ bio: Mis intereses de investigación incluyen los procesos de selección de pare
 interests:
 - Selección de pareja
 - Comunicación vocal
+- Modulación vocal
 - Musicalidad
 - Bioacústica
 - Psicoacústica
@@ -56,15 +57,16 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
 - icon: osf
   icon_pack: ai
   link: https://osf.io/s26ax/
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1333339/juan-david-leongomez/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
+
 # - icon: impactstory
 #   icon_pack: ai
 #   link: https://profiles.impactstory.org/u/0000-0002-0092-6298
@@ -90,3 +92,7 @@ Soy Profesor Asociado e investigador del [Laboratorio de Análisis del Comportam
 ## Producción científica
 
 En este sitio podrás encontrar toda la información de mis [publicaciones](https://jdleongomez.info/es/publication/), así como acceder a mis perfiles académicos haciendo clic en los íconos bajo mi fotografía (incluyendo [Publons](https://publons.com/researcher/1333339/juan-david-leongomez/), que tiene el [registro verificado](https://publons.com/researcher/1333339/juan-david-leongomez/peer-review/) de mi trabajo como par académico y roles editoriales en revistas internacionales). Puedes tambien acceder a mi [CvLAC](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001348945).
+
+## [Investigación Abierta](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) (canal de YouTube)
+
+[Investigación Abierta](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) es un canal de YouTube channel donde incluyo videos y tutoriales acerca de métodos y buenas prácticas de investigación, estadística y ciencia abierta, así como algunos programas útiles de código abierto. Puedes encontrar más información [acá](#posts).

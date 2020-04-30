@@ -9,11 +9,11 @@ In this basic introduction to [OBS Studio](https://obsproject.com/) **in Spanish
 
 ## Secciones:
 
-1. **Installation** [[ir a sección]](https://youtu.be/05f77YdTb1E?t=41)
-2. **Configuration** [[ir a sección]](https://youtu.be/05f77YdTb1E?t=170)
-3. **Interface** [[ir a sección]](https://youtu.be/05f77YdTb1E?t=359)
-4. **Scenes and Transitions** [[ir a sección]](https://youtu.be/05f77YdTb1E?t=668)
-5. **Recording** [[ir a sección]](https://youtu.be/05f77YdTb1E?t=887)
-6. **Conclusions** [[ir a sección]](https://youtu.be/05f77YdTb1E?t=1072)
+1. **Installation** [[jumt to section]](https://youtu.be/05f77YdTb1E?t=41)
+2. **Configuration** [[jumt to section]](https://youtu.be/05f77YdTb1E?t=170)
+3. **Interface** [[jumt to section]](https://youtu.be/05f77YdTb1E?t=359)
+4. **Scenes and Transitions** [[jumt to section]](https://youtu.be/05f77YdTb1E?t=668)
+5. **Recording** [[jumt to section]](https://youtu.be/05f77YdTb1E?t=887)
+6. **Conclusions** [[jumt to section]](https://youtu.be/05f77YdTb1E?t=1072)
 
 {{< youtube 05f77YdTb1E >}}
