@@ -23,6 +23,7 @@ bio: My research interests include mate choice and human vocal communication, wi
 interests:
 - Mate choice
 - Vocal communication
+- Voice modulation
 - Musicality
 - Bioacoustics
 - Psychoacoustics
@@ -56,9 +57,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Juan_Leongomez
-- icon: mendeley
-  icon_pack: ai
-  link: https://www.mendeley.com/profiles/juan-david-leongomez/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA
 - icon: osf
   icon_pack: ai
   link: https://osf.io/s26ax/
