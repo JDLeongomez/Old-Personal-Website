@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Publicaciones"
-  url = "https://jdleongomez.info/es/publication/"
+  url = "/es/publication/"
   weight = 60
 
 [[main]]
