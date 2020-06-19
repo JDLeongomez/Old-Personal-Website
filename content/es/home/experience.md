@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Responsabilidades incluyen:
   
   * Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH).
-  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://sba.colciencias.gov.co/Buscador_Grupos/busqueda?q=PROCESOS%20COGNOSCITIVOS%20Y%20EDUCACION&pagenum=1&start=0&type=load&inmeta=COD_ID_GRUPO!COL0018152).
+  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446).
   * Supervisión de una variedad de proyectos de investigación de pregrado asociados con psicología y biología.
   * Miembro del Comité de Investigación
   * Miembro del Comité Asesor de Asuntos Éticos
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   
   * Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH).
   * Asesor metodológico y estadístico para proyectos de investigación de docentes y estudiantes de posgrado.
-  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://sba.colciencias.gov.co/Buscador_Grupos/busqueda?q=PROCESOS%20COGNOSCITIVOS%20Y%20EDUCACION&pagenum=1&start=0&type=load&inmeta=COD_ID_GRUPO!COL0018152).
+  * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446).
   * Organizador de la serie de conferencias semanales Nerd Café de la Facultad de Psicología (2016-2017).
   * Supervisión de una variedad de proyectos de investigación de pregrado asociados con psicología y biología.
   * Estancia postdoctoral (2018-2019).
