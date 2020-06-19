@@ -27,6 +27,12 @@ subtitle = ""
   description = ""  
   
 [[feature]]
+  icon = "lightbulb"
+  icon_pack = "fas"
+  name = "Diseño Experimental"
+  description = ""
+
+[[feature]]
   icon = "creative-commons-sampling"
   icon_pack = "fab"
   name = "Análisis Acústico"
@@ -39,15 +45,9 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "user-graduate"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Docencia"
   description = "" 
-
-[[feature]]
-  icon = "vials"
-  icon_pack = "fas"
-  name = "Análisis Hormonal"
-  description = ""
 
 +++
