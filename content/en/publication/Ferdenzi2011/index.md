@@ -3,7 +3,7 @@ title = "Digit ratio (2D:4D) predicts facial, but not voice or body odour, attra
 date = 2011-04-20T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Camille Ferdenzi", "Jean-François Lemaître", "**Juan David Leongómez**", "S. Craig Roberts"]
+authors = ["Camille Ferdenzi", "Jean-François Lemaître", "admin", "S. Craig Roberts"]
 
 # Publication type.
 # Legend:

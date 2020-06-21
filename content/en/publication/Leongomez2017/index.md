@@ -3,7 +3,7 @@ title = "Perceived differences in social status between speaker and listener aff
 date = 2017-06-14T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Juan David Leongómez**", "Viktoria R. Mileva", "Anthony C. Little", "S. Craig Roberts"]
+authors = ["admin", "Viktoria R. Mileva", "Anthony C. Little", "S. Craig Roberts"]
 
 # Publication type.
 # Legend:

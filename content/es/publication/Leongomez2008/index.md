@@ -3,7 +3,7 @@ title = "El origen no humano de la música"
 date = 2008-09-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Juan David Leongómez**"]
+authors = ["admin"]
 
 # Publication type.
 # Legend:

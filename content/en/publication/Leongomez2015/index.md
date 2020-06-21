@@ -3,7 +3,7 @@ title = "La música como objeto de estudio científico: consideraciones en torno
 date = 2015-02-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Juan David Leongómez**"]
+authors = ["admin"]
 
 # Publication type.
 # Legend:

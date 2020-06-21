@@ -3,7 +3,7 @@ title = "We change our voice when we talk to high-status people, shows new study
 date = 2017-06-28T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Viktoria R. Mileva", "**Juan David Leongómez**"]
+authors = ["Viktoria R. Mileva", "admin"]
 
 # Publication type.
 # Legend:

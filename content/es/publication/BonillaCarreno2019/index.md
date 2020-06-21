@@ -3,7 +3,7 @@ title = "Efectos de la expresión emocional y de la orientación del rostro sobr
 date = 2019-11-20T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mauricio Bonilla", "**Juan David Leongómez**"]
+authors = ["Mauricio Bonilla", "admin"]
 
 # Publication type.
 # Legend:

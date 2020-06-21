@@ -3,7 +3,7 @@ title = "Want to know if your partner’s cheating on you? Just listen to their 
 date = 2018-03-06T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Viktoria R. Mileva", "**Juan David Leongómez**"]
+authors = ["Viktoria R. Mileva", "admin"]
 
 # Publication type.
 # Legend:

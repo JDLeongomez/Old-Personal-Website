@@ -3,7 +3,7 @@ title = "Visually Activating Pathogen Disgust: A New Instrument for Studying the
 date = 2018-08-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Paxton D. Culpepper", "Jan Havlíček", "**Juan David Leongómez**", "S. Craig Roberts"]
+authors = ["Paxton D. Culpepper", "Jan Havlíček", "admin", "S. Craig Roberts"]
 
 # Publication type.
 # Legend:

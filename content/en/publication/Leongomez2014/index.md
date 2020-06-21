@@ -3,7 +3,7 @@ title = "Vocal modulation during courtship increases proceptivity even in naive 
 date = 2014-06-13T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Juan David Leongómez**", "Jakub Binter", "Lydie Kubicová", "Petra Stolařová", "Kateřina Klapilová", "Jan Havlíček", "S. Craig Roberts"]
+authors = ["admin", "Jakub Binter", "Lydie Kubicová", "Petra Stolařová", "Kateřina Klapilová", "Jan Havlíček", "S. Craig Roberts"]
 
 # Publication type.
 # Legend:

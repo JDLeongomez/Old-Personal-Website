@@ -3,7 +3,7 @@ title = "Dehumanization Effects on Agency Attributions, Retributive Justice judg
 date = 2019-01-17T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cristhian A. Martínez", "**Juan David Leongómez**"]
+authors = ["Cristhian A. Martínez", "admin"]
 
 # Publication type.
 # Legend:

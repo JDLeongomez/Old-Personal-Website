@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Juan David Leongómez
+title: Juan David Leongómez
 
 # Username (this should match the folder name)
 authors:

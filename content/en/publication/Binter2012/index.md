@@ -3,7 +3,7 @@ title = "Sex differences in the incidence of sexual fantasies focused on evoluti
 date = 2012-11-22T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jakub Binter", "**Juan David Leongómez**",  "Nieves Moyano", "Jaroslava Valentova", "Lukaš Jouza", "Kateřina Klapilová"]
+authors = ["Jakub Binter", "admin",  "Nieves Moyano", "Jaroslava Valentova", "Lukaš Jouza", "Kateřina Klapilová"]
 
 # Publication type.
 # Legend:
