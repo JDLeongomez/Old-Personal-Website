@@ -89,6 +89,7 @@ user_groups:
 
 I am an Associate Professor and Researcher at the [Human Behaviour Lab (LACH)](https://www.researchgate.net/lab/Laboratorio-de-Analisis-del-Comportamiento-Humano-LACH-Oscar-R-Sanchez), [Faculty of Psychology](https://www.uelbosque.edu.co/psicologia), at [Universidad El Bosque](https://www.uelbosque.edu.co/) in Bogota, Colombia. My research interests include mate choice and human vocal communication, with an aspiration towards understanding musicality. I am also interested in bioacoustics and psychoacoustics, as well as hormonal effects on human behaviour. I am getting more and more passionate about quantitative methods and R programming, to promote reproducibility and open science.
 
+{{< figure library="true" src="IA_logo.png" title="" lightbox="true" >}} 
 ## [Investigación Abierta](#posts) (YouTube channel)
 
-Investigación Abierta is a [YouTube channel](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) (in Spanish) where I post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the videos [here](#posts).
+Investigación Abierta is a [YouTube channel](https://www.youtube.com/channel/UCs-6iLG3cnZwtGFcvyObPpA) (in Spanish) where I sometimes post videos and tutorials related to quantitative research methods and open science, as well as useful open source software. You can find information in English about the videos [here](#posts).

@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/195CTue30YsaKfNzWCJKeawFrUbwcCLwd/view?usp=sharing"
   date_start = "2018-01-15"
   date_end = "2019-01-15"
-  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales [Perceptible signs of physical and mental health in faces, voices and body odors, and their relationship with hormonal levels]."
+  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales [Perceptible signals of physical and mental health in faces, voices and body odors, and their relationship with hormonal levels]."
 
 [[item]]
   organization = "Universidad El Bosque"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/1p93_aH47ij-KHF3i66uJZappnawVZvsq/view?usp=sharing"
   date_start = "2018-01-01"
   date_end = "2021-12-21"
-  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales [Perceptible signs of physical and mental health in faces, voices and body odors, and their relationship with hormonal levels]."
+  description = "Señales perceptibles de salud física y mental en rostros, voces y olores corporales, y su relación con niveles hormonales [Perceptible signals of physical and mental health in faces, voices and body odors, and their relationship with hormonal levels]."
   
 [[item]]
   organization = "Universidad El Bosque"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://drive.google.com/file/d/0Bz0lwdPQdJu9TmhJYXBsaFNfOUk/view?usp=sharing"
   date_start = "2017-01-01"
   date_end = "2020-12-21"
-  description = "Efecto de señales estáticas evolutivamente relevantes (sexo, dominancia y atractivo) en el procesamiento cortical de rostros humanos [Effect of evolutionary relevant static signals (sex, dominance, and attractiveness) on cortical face processing humans]."
+  description = "Efecto de señales estáticas evolutivamente relevantes (sexo, dominancia y atractivo) en el procesamiento cortical de rostros humanos [Effects of evolutionary relevant static signals (sex, dominance, and attractiveness) on the cortical processing of human faces]."
 
 [[item]]
   organization = "Universidad El Bosque"
