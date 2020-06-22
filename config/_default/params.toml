@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Personal academic page of Juan David Leongómez, PhD"
+description = "Academic website of Juan David Leongómez, PhD"
 
 ############################
 ## Site Features

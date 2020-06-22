@@ -13,7 +13,7 @@
   contentDir = "content/es"
   title = "JD Leongómez"
   [es.params]
-    description = "Sitio web personal"
+    description = "Sitio web personal de Juan David Leongómez, PhD"
   [[es.menu.main]]
     name = "Juan David Leongómez"
     url = "#about"
