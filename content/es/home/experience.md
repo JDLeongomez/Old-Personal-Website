@@ -29,9 +29,10 @@ date_format = "Jan 2006"
   
   * Investigador del Laboratorio de Análisis del Comportamiento Humano (LACH).
   * Líder del grupo de investigación Procesos Cognoscitivos y Educación (desde 2016) - [GrupLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001446).
-  * Supervisión de una variedad de proyectos de investigación de pregrado asociados con psicología y biología.
+  * Supervisión de una variedad de proyectos de investigación de pregrado y postgrado asociados con psicología y biología.
   * Miembro del Comité de Investigación
   * Miembro del Comité Asesor de Asuntos Éticos
+  * Soporte de TICs para análisis estadísticos durante crisis por COVID-19 (2020)
   * Docencia:
   
     * Métodos Cuantitativos II (Maestría en Psicología – 2019-Presente).

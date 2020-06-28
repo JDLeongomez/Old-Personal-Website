@@ -29,12 +29,13 @@ date_format = "Jan 2006"
   
   * Researcher at the Human Behaviour Analysis Lab (LACH).
   * Leader of the Cognitive Processes and Education research group (Procesos Cognoscitivos y Educación) (since 2016).
-  * Supervision of a variety of undergraduate research projects associated with psychology and biology.
+  * Supervision of a variety of undergraduate and postgraduate research projects associated with psychology and biology.
   * Member of the Research Committee
   * Member of the Advisory Committee of Research Ethics
+  * IT support team for online activities (statistics) during the COVID-19 crisis (2020)
   * Teaching:
   
-    * Quantitative Methods II (Psychology MSc – 2019-Present).
+    * Quantitative Methods II (Psychology MSc – 2019).
   """
 
 [[experience]]
@@ -56,6 +57,7 @@ date_format = "Jan 2006"
   * Co-supervision of Doctoral Students
   
     * [Milena Vásquez-Amézquita](https://www.researchgate.net/profile/Milena_Vasquez-Amezquita) (PhD in Neuroscience, University of Valencia, Spain – 2015-2018).
+    * [Francisco Javier Flores](https://www.psychologytoday.com/gb/counselling/francisco-javier-flores-tonbridge-eng/493281) (Professional Doctorate in Counselling Psychology, University of East London, Reino Unido – 2016-2018).
     
   * Teaching:
   
