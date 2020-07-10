@@ -21,7 +21,7 @@ publication = "*Adaptive Human Behavior and Physiology, 1*(4), 449-459"
 publication_short = ""
 
 # Abstract.
-abstract = "How to achieve dominance in a group is a recurrent challenge for individuals of many species, including humans. Previous research indicates that both relationship status and contraceptive use appear to moderate women’s testosterone levels. If testos- terone contributes to dominance, this raises the possibility for group differences in dominance between single and partnered women, and between users and non-users of hormonal contraception. Here, we examine associations between relationship status and use/non-use ofhormonal contraception and women’s self-reported social dominance. In a sample of 84 women, we replicate previous research documenting a significant positive correlation between women’s saliva testosterone levels and their self- reported dominance. Consistent with other literature, we also find that women using hormonal contraception have significantly lower testosterone than those who are regularly cycling and that partnered women have significantly lower testosterone than single women. Although we do not find a main effect of either relationship status or hormonal contraceptive use status on women’s reported levels of dominance, the interaction between these variables predicted reported dominance scores. This interac- tion remained significant when participant age and testosterone values were added to the model as covariates. We discuss these results in the context ofthe existing literature on testosterone and women’s dominance behaviour and with respect to the evolutionary benefits of social dominance in women."
+abstract = "How to achieve dominance in a group is a recurrent challenge for individuals of many species, including humans. Previous research indicates that both relationship status and contraceptive use appear to moderate women’s testosterone levels. If testosterone contributes to dominance, this raises the possibility for group differences in dominance between single and partnered women, and between users and non-users of hormonal contraception. Here, we examine associations between relationship status and use/non-use of hormonal contraception and women’s self-reported social dominance. In a sample of 84 women, we replicate previous research documenting a significant positive correlation between women’s saliva testosterone levels and their self- reported dominance. Consistent with other literature, we also find that women using hormonal contraception have significantly lower testosterone than those who are regularly cycling and that partnered women have significantly lower testosterone than single women. Although we do not find a main effect of either relationship status or hormonal contraceptive use status on women’s reported levels of dominance, the interaction between these variables predicted reported dominance scores. This interaction remained significant when participant age and testosterone values were added to the model as covariates. We discuss these results in the context of the existing literature on testosterone and women’s dominance behaviour and with respect to the evolutionary benefits of social dominance in women."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -39,7 +39,7 @@ tags = []
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
@@ -47,7 +47,7 @@ projects = []
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = "example-slides"
@@ -71,7 +71,7 @@ url_source = ""
 math = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
