@@ -14,28 +14,28 @@
   weight = 20
 
 [[main]]
-  name = "Experiencia"
-  url = "#experience"
+  name = "Destacado"
+  url = "#featured"
   weight = 30
 
 [[main]]
-  name = "Logros"
-  url = "#accomplishments"
-  weight = 40
-
-[[main]]
-  name = "Destacado"
-  url = "#featured"
-  weight = 50
-
-[[main]]
   name = "Publicaciones"
-  url = "/es/publication/"
-  weight = 60
+  url = "#publications"
+  weight = 40
 
 [[main]]
   name = "YouTube"
   url = "#posts"
+  weight = 50
+
+[[main]]
+  name = "Experiencia"
+  url = "#experience"
+  weight = 60
+
+[[main]]
+  name = "Logros"
+  url = "#accomplishments"
   weight = 70
 
 [[main]]
@@ -48,4 +48,4 @@
  [[main]]
     name = "CV"
     url = "/es/files/JDL_CV_es.pdf"
-    weight = 80
+    weight = 90

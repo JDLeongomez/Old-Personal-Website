@@ -3,10 +3,10 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Experience"
-subtitle = "Postdoctoral Experience in Higher Education (for a full list, please check mi [CV](/en/files/JDL_CV_en.pdf))"
+subtitle = "Post PhD experience in Higher Education (for a full list, please check mi [CV](/en/files/JDL_CV_en.pdf))"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
