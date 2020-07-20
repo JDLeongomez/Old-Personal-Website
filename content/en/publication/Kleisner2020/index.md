@@ -27,7 +27,7 @@ abstract = "Sexual selection, including mate choice and intrasexual competition,
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.31234/osf.io/7vdmb"
+doi = "10.31234/osf.io/7vdmb"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -81,3 +81,7 @@ math = true
   focal_point = "BottomLeft"
 
 +++
+
+<div class="box">
+  <span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/7vdmb" data-hide-zero-citations="true" data-style="large_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>

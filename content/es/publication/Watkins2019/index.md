@@ -80,3 +80,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
 +++
+
+<div class="box">
+  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-019-43267-7" data-hide-zero-citations="true" data-style="large_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
