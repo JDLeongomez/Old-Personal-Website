@@ -39,7 +39,7 @@ tags = []
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
+#   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects = []
@@ -47,7 +47,7 @@ projects = []
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = "example-slides"
@@ -72,7 +72,7 @@ links = [{name = "Supplementary Material", url = "https://static-content.springe
 math = true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
   caption = "Image credit: **Juan David Leongómez 2020**"
@@ -83,6 +83,22 @@ math = true
 
 +++
 
-<div class="box">
-  <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-020-61289-4" data-hide-zero-citations="true" data-style="large_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
+<html>
+  <style>
+    body {
+        background: white }
+    section {
+        background: white;
+        color: white;
+        border-radius: 1em;
+        padding: 1em;
+        position: fixed;
+        top: 12%;
+        left: 70% }
+  </style>
+  <section>
+    <div class="box" style="float: left";>
+      <span class="__dimensions_badge_embed__" data-doi="10.1001/jama.2016.9797" data-hide-zero-citations="true" data-legend="hover-right"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+      <div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583"   data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+    </div>
+  </section>
