@@ -101,7 +101,7 @@ The recordings were taken from people with voices of similar pitch and attractiv
 
 It is not only women who can pick up on men’s vocal cues of good genes and likelihood to cheat, and use it to their benefit. A woman’s voice changes during her menstrual cycle when she is not using contraceptive pills. Perhaps unsurprisingly, men find women’s voices most attractive when the women are [near ovulation](https://www.sciencedirect.com/science/article/pii/S1090513808000263?via%3Dihub) (most fertile), than at other times of the month. This information is important to pick up on, as women do not display very explicit signals that they are fertile (unlike baboon females whose bottoms turn red, or female deer who release scents to advertise their fertility).
 
-Voices can also signal whether someone is [interested in you](http://www.ehbonline.org/article/S1090-5138(14)00078-6/fulltext). In one clever study, participants were asked to judge the voices of individuals who spoke in a different language to attractive or unattractive potential partners or competitors.
+Voices can also signal whether someone is [interested in you](/es/publication/leongomez2017/). In one clever study, participants were asked to judge the voices of individuals who spoke in a different language to attractive or unattractive potential partners or competitors.
 
 The researchers found that, when talking to attractive people, men’s voices tend to reach a deeper pitch, and both men and women increase how varied their pitch is so their voices sound more dynamic than monotonous. Practically speaking, picking up on these types of cues could allow someone to decide whether a person they are talking to might be attracted to them or not.
 
