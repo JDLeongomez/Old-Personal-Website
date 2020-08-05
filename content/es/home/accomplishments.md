@@ -101,7 +101,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Colfuturo"
   organization_url = "https://www.colfuturo.org/"
-  title = "Scholarship-Loan Programme"
+  title = "Programa Crédito Beca"
   url = "https://www.colfuturo.org/financiacion-para-posgrados-en-el-exterior"
   certificate_url = "https://drive.google.com/file/d/0Bz0lwdPQdJu9ZHNMTFV5X1QycXc/view?usp=sharing"
   date_start = "2008-09-15"
