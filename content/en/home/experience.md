@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   * Co-supervision of Doctoral Students
   
     * [Milena Vásquez-Amézquita](https://www.researchgate.net/profile/Milena_Vasquez-Amezquita) (PhD in Neuroscience, University of Valencia, Spain – 2015-2018).
-    * [Francisco Javier Flores](https://www.psychologytoday.com/gb/counselling/francisco-javier-flores-tonbridge-eng/493281) (Professional Doctorate in Counselling Psychology, University of East London, Reino Unido – 2016-2018).
+    * [Francisco Javier Flores](https://www.psychologytoday.com/gb/counselling/francisco-javier-flores-tonbridge-eng/493281) (Professional Doctorate in Counselling Psychology, University of East London, UK – 2016-2018).
     
   * Teaching:
   
