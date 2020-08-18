@@ -1,5 +1,5 @@
 +++
-title = "Análisis de poder estadístico y cálculo de tamaño de muestra en R: Guía práctica [Statistical Power Analysis and Sample Size Calculation in R: A Practical Guide]"
+title = "Análisis de poder estadístico y cálculo de tamaño de muestra en R: Guía práctica [Statistical Power Analysis and Sample Size Calculation in R: Practical Guide]"
 date = 2020-08-18T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
