@@ -1,7 +1,7 @@
 ---
 title: Qué es un valor p? Te lo puedo mostrar gráficamente
 date: 2020-05-02T00:00:00
-author: Juan David Leongómez
+authors: ["admin"]
 summary: En este video explico, de manera gráfica, y sin usar matemáticas, qué son los valores p.
 ---
 

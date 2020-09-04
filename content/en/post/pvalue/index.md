@@ -1,7 +1,7 @@
 ---
 title: What is a p-value? I can show you graphically
 date: 2020-05-02T00:00:00
-author: Juan David Leongómez
+authors: ["admin"]
 summary: In this video **in Spanish** I explain graphically, and without using mathematics, what p-values are.
 ---
 

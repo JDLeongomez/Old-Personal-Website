@@ -1,7 +1,7 @@
 ---
 title: Statistical power and sample size calculation in R
 date: 2020-09-03T00:00:00
-author: Juan David Leongómez
+authors: ["admin"]
 summary: In this series/tutorial in Spanish, I explain how to perform statistical power analysis to calculate the required sample size for a study.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Poder estadístico y tamaño de muestra en R
 date: 2020-09-03T00:00:00
-author: Juan David Leongómez
+authors: ["admin"]
 summary: En este serie/tutorial, explico cómo hacer análisis de poder (o potencia) estadística para calcular el tamaño de muestra necesario para un estudio.
 ---
 

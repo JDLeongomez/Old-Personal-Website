@@ -1,7 +1,7 @@
 ---
 title: Introduction to OBS Studio
 date: 2020-04-03T00:00:00
-author: Juan David Leongómez
+authors: ["admin"]
 summary: In this basic introduction to **OBS Studio** in Spanish, I explain how to capture audio and video from several sources, to record lessons and tutorials.
 ---
 

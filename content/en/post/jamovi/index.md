@@ -1,7 +1,7 @@
 ---
 title: Introduction to jamovi
 date: 2020-03-17T00:00:00
-author: Juan David Leongómez
+authors: ["admin"]
 summary: In this two-part series in Spanish, I make a general introduction to **jamovi**, a powerful free and open statistical software.
 ---
 

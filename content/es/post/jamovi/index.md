@@ -1,7 +1,7 @@
 ---
 title: Introducción a jamovi
 date: 2020-03-17T00:00:00
-author: Juan David Leongómez
+authors: ["admin"]
 summary: En esta serie en dos partes, hago una introducción general a **jamovi**, un poderoso programa estadístico abierto y gratuito.
 ---
 
