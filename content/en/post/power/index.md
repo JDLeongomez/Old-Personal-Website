@@ -7,7 +7,7 @@ summary: In this series/tutorial in Spanish, I explain how to perform statistica
 
 In this series, I explain the basics of power analysis and how to use it to calculate the sample size needed for a study.
 
-The videos focus on the procedure to perform power analysis and sample size calculation in jamovi and particularly in R, using the packages pwr (for simple designs) and Superpower (for more complex factorial designs). The section dedicated to pwr is largely based on [this video](https://youtu.be/ZIjOG8LTTh8) by Daniel S. Quintana (2019).
+The videos focus on the procedure to perform power analysis and sample size calculation in jamovi and particularly in R, using the packages [pwr](https://www.rdocumentation.org/packages/pwr/) (for simple designs) and [Superpower](https://cran.r-project.org/web/packages/Superpower/vignettes/intro_to_superpower.html) (for more complex factorial designs). The section dedicated to [pwr](https://www.rdocumentation.org/packages/pwr/) is largely based on [this video](https://youtu.be/ZIjOG8LTTh8) by Daniel S. Quintana (2019).
 
 ## Introduction
 

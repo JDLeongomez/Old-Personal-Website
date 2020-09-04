@@ -7,7 +7,7 @@ summary: En este serie/tutorial, explico cómo hacer análisis de poder (o poten
 
 En esta serie, explico las bases del análisis de poder estadístico y cómo usarlo para calcular el tamaño de muestra necesario para un estudio. 
 
-Los videos se centran en el procedimiento para realizar análisis de poder y tamaños de muestra en jamovi y particularmente en R, usando los paquetes pwr (para diseños sencillos) y Superpower (para diseños factoriales más complejos). La sección dedicada a pwr está ampliamente basada en [este video](https://youtu.be/ZIjOG8LTTh8) de Daniel S. Quintana (2019).
+Los videos se centran en el procedimiento para realizar análisis de poder y tamaños de muestra en jamovi y particularmente en R, usando los paquetes [pwr](https://www.rdocumentation.org/packages/pwr/) (para diseños sencillos) y [Superpower](https://cran.r-project.org/web/packages/Superpower/vignettes/intro_to_superpower.html) (para diseños factoriales más complejos). La sección dedicada a [pwr](https://www.rdocumentation.org/packages/pwr/) está ampliamente basada en [este video](https://youtu.be/ZIjOG8LTTh8) de Daniel S. Quintana (2019).
 
 ## Introducción
 
